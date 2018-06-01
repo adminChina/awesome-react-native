@@ -14,7 +14,7 @@ Awesome React Native 是一种很棒的风格列表，可以用来管理最好�
 <br/>
 
 <p align="center">
-<a href="https://bit.ly/arn-wkly">Don't miss out! subscribe to our weekly newsletter</a>
+<a href="https://bit.ly/arn-wkly">欢迎订阅每周新闻资讯！</a>
 </p>
 <br/>
 <br/>
@@ -30,14 +30,14 @@ alt="Build Status" />
         <a href="https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b">
         <img src="https://cdn-images-1.medium.com/max/2000/1*WpOK6v_X2lr8CsmAdJR4og.jpeg" width="120" />
         <br />
-        React Native Authentication in Depth
+        React Native 深度认证
         </a>
     </td>
     <td style="text-align: center">
         <a href="https://www.youtube.com/watch?v=9baaVjGdBqs">
         <img src="https://img.youtube.com/vi/9baaVjGdBqs/0.jpg" width="120" />
         <br />
-        Create React Native App
+        创建一个 React Native App
         </a>
     </td>
     <td style="text-align: center">
@@ -47,7 +47,8 @@ alt="Build Status" />
             padding: 10px;
         " />
         <br />
-            Better List Views
+            更好的列表视图
+
         </a>
     </td>
 </tr></table></div>
@@ -55,15 +56,15 @@ alt="Build Status" />
 Have something that belongs under "Buzzing"? drop me a line:
 dotan-at-paracode.com.
 
-## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
+## 推荐用于错误和崩溃报告的SDK [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
 
 [![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=banner)
 
-> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
-> They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up development process. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
+> 我们强烈建议使用“Instabug”的框架，因为他们sdk中有很多强大的功能，为每个报错、奔溃报告提供丰富的数据。
+> sdk中自带屏幕截图、屏幕录像、设备详细信息、网络日志和每个错误报告的重复步骤。. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
-# Categories
+# 分类
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -1287,5 +1288,3 @@ Assortment of conference and training videos.
 * [Stable: 0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 * [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
-
