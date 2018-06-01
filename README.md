@@ -48,7 +48,6 @@ alt="Build Status" />
         " />
         <br />
             更好的列表视图
-
         </a>
     </td>
 </tr></table></div>
@@ -1288,3 +1287,5 @@ Assortment of conference and training videos.
 * [Stable: 0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 * [Next: latest](https://github.com/facebook/react-native/releases/latest)
+
+
