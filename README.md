@@ -8,8 +8,7 @@
 </p><br/>
 <br/>
 <br/>
-Awesome React Native is an awesome style list that curates the best React Native libraries,
-tools, tutorials, articles and more. PRs are welcome!
+Awesome React Native 是一种很棒的风格列表，可以用来管理最好的本地库，工具、教程、文章等等。PRs欢迎!
 
 <br/>
 <br/>
